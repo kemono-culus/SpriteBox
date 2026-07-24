@@ -1719,5 +1719,177 @@
     ],
     "comment": "乗って遊べる一輪車です<br>カラバリとペダルを回すアニメーション付き",
     "post_date": "2026-07-23"
+  },
+  {
+    "item_number": 130,
+    "item_id": "cucumber",
+    "item_name": "きゅうり",
+    "item_genre": "食べ物",
+    "genre_code": "food",
+    "tags": [
+      "野菜"
+    ],
+    "comment": "夏の水分補給や漬物に適した野菜です",
+    "post_date": "2026-07-25"
+  },
+  {
+    "item_number": 131,
+    "item_id": "tomato",
+    "item_name": "トマト",
+    "item_genre": "食べ物",
+    "genre_code": "food",
+    "tags": [
+      "野菜"
+    ],
+    "comment": "赤くてフルーティな野菜です<br>サラダやイタリアンに",
+    "post_date": "2026-07-25"
+  },
+  {
+    "item_number": 132,
+    "item_id": "cabbage",
+    "item_name": "きゃべつ",
+    "item_genre": "食べ物",
+    "genre_code": "food",
+    "tags": [
+      "野菜"
+    ],
+    "comment": "球状に葉を付ける野菜です<br>煮るなり焼くなり",
+    "post_date": "2026-07-25"
+  },
+  {
+    "item_number": 133,
+    "item_id": "eggplant",
+    "item_name": "なす",
+    "item_genre": "食べ物",
+    "genre_code": "food",
+    "tags": [
+      "野菜"
+    ],
+    "comment": "英語ではたまごのような植物と言います<br>日本でよく見るものは長細いです",
+    "post_date": "2026-07-25"
+  },
+  {
+    "item_number": 134,
+    "item_id": "burdock_root",
+    "item_name": "ごぼう",
+    "item_genre": "食べ物",
+    "genre_code": "food",
+    "tags": [
+      "野菜"
+    ],
+    "comment": "パッと見 木の根っこにしか見えない野菜です",
+    "post_date": "2026-07-25"
+  },
+  {
+    "item_number": 135,
+    "item_id": "broccoli",
+    "item_name": "ブロッコリー",
+    "item_genre": "食べ物",
+    "genre_code": "food",
+    "tags": [
+      "野菜"
+    ],
+    "comment": "粒上の蕾を食べる野菜です<br>実は茎も食べられます",
+    "post_date": "2026-07-25"
+  },
+  {
+    "item_number": 136,
+    "item_id": "pumpkin1",
+    "item_name": "かぼちゃ１",
+    "item_genre": "食べ物",
+    "genre_code": "food",
+    "tags": [
+      "野菜"
+    ],
+    "comment": "日本でよく見る濃い緑のかぼちゃです<br>食用です",
+    "post_date": "2026-07-25"
+  },
+  {
+    "item_number": 137,
+    "item_id": "pumpkin2",
+    "item_name": "かぼちゃ２",
+    "item_genre": "食べ物",
+    "genre_code": "food",
+    "tags": [
+      "ハロウィン",
+      "野菜"
+    ],
+    "comment": "アメリカでよく見るオレンジのかぼちゃです<br>観賞用ですが食べることもあります",
+    "post_date": "2026-07-25"
+  },
+  {
+    "item_number": 138,
+    "item_id": "green_onion",
+    "item_name": "長ねぎ",
+    "item_genre": "食べ物",
+    "genre_code": "food",
+    "tags": [
+      "野菜"
+    ],
+    "comment": "棒状のネギです",
+    "post_date": "2026-07-25"
+  },
+  {
+    "item_number": 139,
+    "item_id": "onion",
+    "item_name": "玉ねぎ",
+    "item_genre": "食べ物",
+    "genre_code": "food",
+    "tags": [
+      "野菜"
+    ],
+    "comment": "球状のネギです",
+    "post_date": "2026-07-25"
+  },
+  {
+    "item_number": 140,
+    "item_id": "potato",
+    "item_name": "じゃがいも",
+    "item_genre": "食べ物",
+    "genre_code": "food",
+    "tags": [
+      "毒",
+      "野菜"
+    ],
+    "comment": "厳しい環境でも良く育つ芋です<br>芽に毒があります",
+    "post_date": "2026-07-25"
+  },
+  {
+    "item_number": 141,
+    "item_id": "carrot",
+    "item_name": "にんじん",
+    "item_genre": "食べ物",
+    "genre_code": "food",
+    "tags": [
+      "野菜"
+    ],
+    "comment": "オレンジ色の根菜です<br>たまに足が生えた個体がいます",
+    "post_date": "2026-07-25"
+  },
+  {
+    "item_number": 142,
+    "item_id": "scooter_side",
+    "item_name": "スクーター（横）",
+    "item_genre": "乗り物",
+    "genre_code": "vehicle",
+    "tags": [
+      "レース",
+      "車"
+    ],
+    "comment": "水色のバイクです<br>椅子の下に広い収納スペースがあります",
+    "post_date": "2026-07-25"
+  },
+  {
+    "item_number": 143,
+    "item_id": "scooter_front",
+    "item_name": "スクーター（前）",
+    "item_genre": "乗り物",
+    "genre_code": "vehicle",
+    "tags": [
+      "レース",
+      "車"
+    ],
+    "comment": "水色のバイクです<br>前から見ると意外とスリム",
+    "post_date": "2026-07-25"
   }
 ]
