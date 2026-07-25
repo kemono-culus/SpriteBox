@@ -1891,5 +1891,55 @@
     ],
     "comment": "水色のバイクです<br>前から見ると意外とスリム",
     "post_date": "2026-07-25"
+  },
+  {
+    "item_number": 144,
+    "item_id": "chibi_rabbit",
+    "item_name": "ちびうさぎ",
+    "item_genre": "動物",
+    "genre_code": "animal",
+    "tags": [
+      "うさぎ"
+    ],
+    "comment": "ちいさいうさぎです",
+    "post_date": "2026-07-25"
+  },
+  {
+    "item_number": 145,
+    "item_id": "deka_rabbit",
+    "item_name": "でかうさぎ",
+    "item_genre": "動物",
+    "genre_code": "animal",
+    "tags": [
+      "うさぎ"
+    ],
+    "comment": "デカいうさぎです",
+    "post_date": "2026-07-25"
+  },
+  {
+    "item_number": 146,
+    "item_id": "fish1",
+    "item_name": "さかな１",
+    "item_genre": "動物",
+    "genre_code": "animal",
+    "tags": [
+      "海",
+      "魚"
+    ],
+    "comment": "長細い魚です",
+    "post_date": "2026-07-25"
+  },
+  {
+    "item_number": 147,
+    "item_id": "fish2",
+    "item_name": "さかな２",
+    "item_genre": "動物",
+    "genre_code": "animal",
+    "tags": [
+      "海",
+      "魚"
+    ],
+    "comment": "四角い魚です",
+    "post_date": "2026-07-25"
   }
 ]
